@@ -21,6 +21,7 @@ function Form(props) {
   return (
     <form onSubmit={submitForm}>
       <input
+        className="form-control"
         type="text"
         value={formData.username}
         placeholder="Enter The username"
@@ -28,7 +29,9 @@ function Form(props) {
           setFormData({ ...formData, username: event.target.value });
         }}
       />
-      <button type="submit">Search</button>
+      <button className="btn btn-primary" type="submit">
+        Search
+      </button>
     </form>
   );
 }
