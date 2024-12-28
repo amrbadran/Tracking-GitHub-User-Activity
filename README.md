@@ -45,3 +45,7 @@ A simple React application that fetches and displays the last 20 events from a s
 - React.js
 - GitHub API
 - Axios
+
+# Deployed Project
+
+you can check the project [here](https://amrbadran.github.io/GitHub-User-Activity/)
