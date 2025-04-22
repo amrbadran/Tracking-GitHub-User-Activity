@@ -1,6 +1,6 @@
-# GitHub User Activity
+# Tracking GitHub User Activity
 
-A simple React application that fetches and displays the last 20 events from a specified GitHub user account.
+A simple React application (just for testing) that fetches and displays the last 20 events from a specified GitHub user account.
 
 ## Features
 
@@ -12,13 +12,13 @@ A simple React application that fetches and displays the last 20 events from a s
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/amrbadran/GitHub-User-Activity.git
+   git clone https://github.com/amrbadran/Tracking-GitHub-User-Activity.git
    ```
 
 2. Navigate to the project directory:
 
    ```bash
-   cd github-user-activity
+   cd Tracking-GitHub-User-Activity
    ```
 
 3. Install dependencies:
@@ -48,4 +48,4 @@ A simple React application that fetches and displays the last 20 events from a s
 
 # Deployed Project
 
-you can check the project [here](https://amrbadran.github.io/GitHub-User-Activity/)
+you can check the project [here](https://amrbadran.github.io/Tracking-GitHub-User-Activity/)
